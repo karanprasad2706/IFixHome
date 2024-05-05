@@ -2,6 +2,9 @@
 
 # Welcome to iFixHome!
 
+![Purple Pink Gradient Mobile Application Presentation (2)](https://github.com/karanprasad2706/IFixHome/assets/132588972/673c6416-1ac5-4f20-86d0-01955f3f0c7a)
+
+
 iFixHome is my personal project aimed at revolutionizing the way we access home appliance services and shopping. With a strong emphasis on accessibility, efficiency, and user satisfaction, iFixHome brings essential features together to streamline the management of home appliances.
 
 ## Table of Contents
@@ -45,7 +48,7 @@ Once installed, you can simply launch the iFixHome application on your Android d
 ## Contributing
 
 While iFixHome is my personal project, I'm always open to feedback and suggestions for improvement. If you have any ideas or would like to contribute, feel free to reach out!
-
+ gmail- karanprasad721@gmail.com
 ## License
 
 iFixHome is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
